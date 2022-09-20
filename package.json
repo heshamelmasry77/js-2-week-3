@@ -1,0 +1,25 @@
+{
+  "name": "js-2-week-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heshamelmasry77/js-2-week-3.git"
+  },
+  "author": "hesham el masry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heshamelmasry77/js-2-week-3/issues"
+  },
+  "homepage": "https://github.com/heshamelmasry77/js-2-week-3#readme",
+  "devDependencies": {
+    "vite": "^3.1.3"
+  }
+}
